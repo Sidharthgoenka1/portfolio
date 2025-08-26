@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sidharth Goenka  
 
-🚀 **Java & Android Developer | Spring Boot | AWS | REST APIs**  
-🎓 **MS in Applied Computer Science | 3+ years building scalable mobile + backend solutions**  
+🎓 **MS in Applied Computer Science, 3+ years building scalable mobile + backend solutions**  
+🚀 **Java & Android Developer, Spring Boot, AWS, REST APIs**  
 
 ---
 
