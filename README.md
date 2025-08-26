@@ -29,8 +29,6 @@
 
 ## 📂 Featured Projects  
 
----
-
 ### 📦 Inventory Tracker (Capstone)  
 *Android + Spring Boot + AWS*  
 - Built a **cloud-ready inventory management app** with Android frontend & Spring Boot backend.  
