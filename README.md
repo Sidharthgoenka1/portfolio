@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sidharth Goenka  
 
 🚀 **Java & Android Developer | Spring Boot | AWS | REST APIs**  
-🎓 MS in Applied Computer Science | 3+ years building scalable mobile + backend solutions  
+🎓 **MS in Applied Computer Science | 3+ years building scalable mobile + backend solutions**  
 
 ---
 
@@ -12,8 +12,24 @@
 - **Practices:** Agile/SCRUM, TDD (JUnit), Clean Code  
 
 ---
+## Work Experience
+### 📲 Telecom Mobile Apps  
+*Comviva Technologies | Clients: Ooredoo & AT&T*  
+- Developed **enterprise-grade Android apps** used by thousands of end-users.  
+- Integrated **REST APIs & push notifications** for real-time updates.  
+- Improved backend **SND platform performance by 40%** using Spring Boot + Batch.  
+
+### 💳 FinTech Backend Services  
+*Kite Internship*  
+- Enhanced **Spring Boot REST APIs** for a financial services platform.  
+- Wrote **JUnit test cases** to boost coverage & stability.  
+- Worked in **Agile/DevOps** environment with Git version control.  
+
+---
 
 ## 📂 Featured Projects  
+
+---
 
 ### 📦 Inventory Tracker (Capstone)  
 *Android + Spring Boot + AWS*  
@@ -22,22 +38,6 @@
 - Designed **secure REST APIs** enabling smooth mobile-backend communication.  
 
 🔗 [View Project Repository](#) *(Add link when hosted on GitHub)*  
-
----
-
-### 📲 Telecom Mobile Apps  
-*Comviva Technologies | Clients: Ooredoo & AT&T*  
-- Developed **enterprise-grade Android apps** used by thousands of end-users.  
-- Integrated **REST APIs & push notifications** for real-time updates.  
-- Improved backend **SND platform performance by 40%** using Spring Boot + Batch.  
-
----
-
-### 💳 FinTech Backend Services  
-*Kite Internship*  
-- Enhanced **Spring Boot REST APIs** for a financial services platform.  
-- Wrote **JUnit test cases** to boost coverage & stability.  
-- Worked in **Agile/DevOps** environment with Git version control.  
 
 ---
 
