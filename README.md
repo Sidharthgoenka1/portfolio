@@ -12,7 +12,7 @@
 - **Practices:** Agile/SCRUM, TDD (JUnit), Clean Code  
 
 ---
-## Work Experience
+## 💼 Work Experience
 ### 📲 Telecom Mobile Apps  
 *Comviva Technologies | Clients: Ooredoo & AT&T*  
 - Developed **enterprise-grade Android apps** used by thousands of end-users.  
