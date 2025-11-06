@@ -56,7 +56,7 @@ Thapar Institute of Engineering and Technology, India (2015–2019)
 ## 📄 Resume
 
 You can view or download my latest resume here:  
-➡️ **[Sidharth_Goenka_Resume.pdf](./Sidharth_Goenka_Resume.pdf)**
+➡️ **[Sidharth_Goenka_Resume.pdf](./Resume_Sidharth.pdf)**
 
 ---
 
