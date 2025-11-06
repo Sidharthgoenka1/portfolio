@@ -1,55 +1,71 @@
-# 👋 Hi, I'm Sidharth Goenka  
+# 💼 Sidharth Goenka — Software Developer
 
-🎓 **MS in Applied Computer Science, 3+ years building scalable mobile + backend solutions**  
-🚀 **Java & Android Developer, Spring Boot, AWS, REST APIs**  
-
----
-
-## 🛠️ Tech Stack  
-- **Languages & Frameworks:** Java, Spring Boot, Spring Batch, Hibernate, JPA, REST, Android SDK  
-- **Cloud & DevOps:** AWS (EC2, RDS), Maven/Gradle, Git/SVN, CI/CD  
-- **Databases:** MySQL, PostgreSQL, Oracle  
-- **Practices:** Agile/SCRUM, TDD (JUnit), Clean Code  
-
----
-## 💼 Work Experience
-### 📲 Telecom Mobile Apps  
-*Comviva Technologies | Clients: Ooredoo & AT&T*  
-- Developed **enterprise-grade Android apps** used by thousands of end-users.  
-- Integrated **REST APIs & push notifications** for real-time updates.  
-- Improved backend **SND platform performance by 40%** using Spring Boot + Batch.  
-
-### 💳 FinTech Backend Services  
-*Kite Internship*  
-- Enhanced **Spring Boot REST APIs** for a financial services platform.  
-- Wrote **JUnit test cases** to boost coverage & stability.  
-- Worked in **Agile/DevOps** environment with Git version control.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sidharth_Goenka-blue?logo=linkedin)](https://www.linkedin.com/in/sidharth-goenka/)
+[![Email](https://img.shields.io/badge/Email-goenka.sidharth1%40gmail.com-red?logo=gmail)](mailto:goenka.sidharth1@gmail.com)
 
 ---
 
-## 📂 Featured Projects  
+## 🧑‍💻 About Me
 
-### 📦 Inventory Tracker (Capstone)  
-*Android + Spring Boot + AWS*  
-- Built a **cloud-ready inventory management app** with Android frontend & Spring Boot backend.  
-- Hosted on AWS with **RDS (MySQL)** for persistent storage.  
-- Designed **secure REST APIs** enabling smooth mobile-backend communication.  
+I’m **Sidharth Goenka**, an **MS graduate in Applied Computer Science** with **3+ years of professional experience** in **Java, Spring Boot, and Android Development**.  
+I specialize in designing and building **scalable backend systems**, **REST APIs**, and **cloud-based microservices** using **AWS** and **Spring Cloud**.
 
-🔗 [View Project Repository](#) *(Add link when hosted on GitHub)*  
+I’m currently seeking **Java Backend Developer** roles where I can contribute to impactful projects, enhance my system design skills, and collaborate in fast-paced, agile environments.
 
 ---
 
-## 🎓 Education  
-- **MS in Applied Computer Science** – Fairleigh Dickinson University (2022–2024)  
-- **B.Tech in Electronics & Communication** – Thapar Institute of Engineering & Technology  
+## 🧰 Technical Skills
+
+**Languages:** Java, JavaScript  
+**Frameworks:** Spring Boot, Spring Cloud, Hibernate, ReactJS, Node.js  
+**Web Technologies:** HTML5, CSS3, RESTful APIs, MVC  
+**Cloud Platforms:** AWS, Azure  
+**Databases:** MySQL, PostgreSQL, MongoDB, Oracle  
+**Version Control:** Git, GitLab, SVN  
+**Tools:** Maven, Gradle, IntelliJ IDEA, JIRA  
+**Methodologies:** Agile, Scrum  
 
 ---
 
-## 📫 Let’s Connect!  
-📧 [goenka.sidharth1@gmail.com](mailto:goenka.sidharth1@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/sidharth-goenka/)  
-📍 Vancouver, BC, Canada  
+## 🚀 Featured Projects
+
+### 🛒 [E-Commerce Platform (Microservices Architecture)]()
+- Developed a distributed e-commerce system using Spring Boot, Spring Cloud (Eureka, Config Server), Kafka, and Docker.
+- Implemented centralized logging (ELK), circuit breakers (Resilience4J), and authentication via Keycloak.
+- Used Prometheus & Grafana for monitoring and visualizing service health.
+
+### 📞 [Contact Manager]()
+- Spring Boot web app with role-based authentication via Spring Security and CRUD operations for contact management.
+- Integrated payment gateway and used Thymeleaf for dynamic frontend rendering.
+
+### 📊 [COVID-19 Tracker]()
+- React.js dashboard visualizing real-time global COVID-19 data using REST APIs and Material UI components.
 
 ---
 
-⭐ *I love building clean, scalable software that bridges mobile and backend worlds. Always open to collaborations and exciting opportunities!*  
+## 🎓 Education
+
+**Master of Science in Applied Computer Science**  
+Fairleigh Dickinson University, Vancouver (2022–2024)
+
+**Bachelor of Engineering in Electronics and Communication**  
+Thapar Institute of Engineering and Technology, India (2015–2019)
+
+---
+
+## 📄 Resume
+
+You can view or download my latest resume here:  
+➡️ **[Sidharth_Goenka_Resume.pdf](./Sidharth_Goenka_Resume.pdf)**
+
+---
+
+## 📫 Contact
+
+- **Email:** [goenka.sidharth1@gmail.com](mailto:goenka.sidharth1@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sidharth-goenka](https://www.linkedin.com/in/sidharth-goenka/)  
+- **Location:** Vancouver, BC, Canada  
+
+---
+
+⭐ *If you found this portfolio interesting or want to collaborate, feel free to connect with me on LinkedIn!*
